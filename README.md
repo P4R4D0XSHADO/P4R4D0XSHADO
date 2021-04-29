@@ -4,4 +4,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P4R4D0XSHADO&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P4R4D0XSHADO&repo=willsprojects theme=tokyonight)](https://github.com/P4R4D0XSHADO/willsprojects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P4R4D0XSHADO&repo=willsprojects)theme=tokyonight](https://github.com/P4R4D0XSHADO/willsprojects)
