@@ -4,4 +4,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P4R4D0XSHADO&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P4R4D0XSHADO&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
